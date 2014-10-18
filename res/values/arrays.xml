@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="main">
+		<item>List1</item>
+	</string-array>
+	
+	<string-array name="mainmenu">
+		<item>토익 Zone</item>
+		<item>토익스피킹Zone</item>
+		<item>시험일정</item>
+		<item>고사장 찾기</item>
+		<item>이벤트 n 공지</item>
+		<item>교재 소개</item>
+		<item>교재 학습</item>
+		<item>Daily 학습</item>
+	</string-array>
+</resources>
